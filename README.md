@@ -1,4 +1,4 @@
-#Samegame
+# Samegame
 
 Authors : Nicolas Reszka & Guillaume Cau
 
